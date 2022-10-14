@@ -32,7 +32,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-baritono" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-baritono" {
 		A -- le __ lu -- ya, a -- le -- lu __ ya.
 		A -- le __ lu -- ya, a -- le -- lu __ ya.
 	}
